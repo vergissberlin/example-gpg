@@ -1,4 +1,4 @@
-# Example how to gpg/pnp
+# Example how to gpg/pgp
 
 Example project for asynchron encryption.
 
