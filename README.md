@@ -1,6 +1,6 @@
-# example-gpg
+# Example how to gpg/pnp
 
-Example project for asynchron encryption
+Example project for asynchron encryption.
 
 ## Online Tool
 
