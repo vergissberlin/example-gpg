@@ -3,6 +3,7 @@
 !/docs
 !/public_keys
 !/qr_codes
+!/scripts
 
 !/.gitignore
 !/LICENSE
