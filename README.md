@@ -121,3 +121,7 @@ Wenn Du kein GPG auf der Kommandozeile verwenden möchtest, gibt es auch grafisc
 ### Online Tools
 
 - <https://pgptool.org>
+
+## Downloads
+
+- [Slides](./docs/Slides.md)
